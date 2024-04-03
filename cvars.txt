@@ -1,0 +1,2 @@
+### Forces reassembly to create JSON files. It can read lua and JSON with or without this cvar set to 1.
+kWriteJSON = 1
